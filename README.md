@@ -7,9 +7,9 @@
 
 
 ## Hey! My name is Tiago! I'm currently learning to code Python and Full Stack Web Development on my own! 
-## I aspire to be a Full Stack Web Development!
-## Everything that may help are most welcome!
-## I will be uploading few projects that i may be working while learning to code.
+I aspire to be a Full Stack Web Development!
+Everything that may help are most welcome!
+I will be uploading few projects that i may be working while learning to code.
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
