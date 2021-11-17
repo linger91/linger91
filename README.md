@@ -11,7 +11,7 @@ I aspire to be a Full Stack Web Development!
 Everything that may help are most welcome!
 I will be uploading few projects that i may be working while learning to code.
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/linger91/)](https://github.com/linger91/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
 
 
 
