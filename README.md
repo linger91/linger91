@@ -1,6 +1,4 @@
-# :man_technologist: Luiz Carlos Abbott Galvão Neto
-
-
+# :man_technologist: Tiago Esteves
 
 ## Hey! My name is Tiago! I'm currently learning to code Python and Full Stack Web Development!
 
