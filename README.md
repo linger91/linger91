@@ -11,13 +11,13 @@ I aspire to be a Full Stack Web Development!
 Everything that may help are most welcome!
 I will be uploading few projects that i may be working while learning to code.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/linger91/)](https://github.com/linger91/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white/&link=https://github.com/linger91/)](https://github.com/linger91/)]
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3/&link=https://github.com/linger91/)](https://github.com/linger91/))]
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap/&link=https://github.com/linger91/)](https://github.com/linger91/)]
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react/&link=https://github.com/linger91/)](https://github.com/linger91/)]
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js/&link=https://github.com/linger91/)](https://github.com/linger91/)]
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white/&link=https://github.com/linger91/)](https://github.com/linger91/)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/linger91/)](https://github.com/linger91/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white/&link=https://github.com/linger91/)](https://github.com/linger91/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3/&link=https://github.com/linger91/)](https://github.com/linger91/))
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap/&link=https://github.com/linger91/)](https://github.com/linger91/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react/&link=https://github.com/linger91/)](https://github.com/linger91/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js/&link=https://github.com/linger91/)](https://github.com/linger91/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white/&link=https://github.com/linger91/)](https://github.com/linger91/)
 
 
 
