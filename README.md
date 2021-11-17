@@ -2,6 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/testeves260/)](https://www.linkedin.com/in/testeves260/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=961292572&text=Olá!)](https://api.whatsapp.com/send?phone=961292572&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:testeves.260@gmail.com)](mailto:testeves.260@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:testeves_260@hotmail.com)](mailto:testeves_260@hotmail.com)
+
 
 ## Hey! My name is Tiago! I'm currently learning to code Python and Full Stack Web Development!
 
