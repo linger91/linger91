@@ -9,7 +9,7 @@
 ## Hey! My name is Tiago! I'm currently learning to code Python and Full Stack Web Development on my own! 
 I aspire to be a Full Stack Web Development!
 Everything that may help are most welcome!
-I will be uploading few projects that i may be working while learning to code.
+I will be uploading few projects that i may be working while learning to code. Below you can find all the languages that i aspire to learn in few ahead months.
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/linger91/)](https://github.com/linger91/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white/&link=https://github.com/linger91/)](https://github.com/linger91/)
@@ -20,8 +20,4 @@ I will be uploading few projects that i may be working while learning to code.
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white/&link=https://github.com/linger91/)](https://github.com/linger91/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&link=https://www.twitch.tv/amphetikon/)](https://www.twitch.tv/amphetikon/)
 
-<img align="right" alt="Rafa-yoda" src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mr0m41sq25qtzql6nq84thrg7hl7l7l9busr1r4t&rid=giphy.gif">
-</div>  
-  ##
-<div> 
-
+<img align="center" alt="Rafa-yoda" src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mr0m41sq25qtzql6nq84thrg7hl7l7l9busr1r4t&rid=giphy.gif">
