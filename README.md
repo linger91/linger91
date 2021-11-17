@@ -6,7 +6,13 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:testeves_260@hotmail.com)](mailto:testeves_260@hotmail.com)
 
 
-## Hey! My name is Tiago! I'm currently learning to code Python and Full Stack Web Development!
+## Hey! My name is Tiago! I'm currently learning to code Python and Full Stack Web Development on my own! 
+## I aspire to be a Full Stack Web Development!
+## Everything that may help are most welcome!
+## I will be uploading few projects that i may be working while learning to code.
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
 
   <img align="right" alt="Rafa-yoda" src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mr0m41sq25qtzql6nq84thrg7hl7l7l9busr1r4t&rid=giphy.gif">
 </div>
