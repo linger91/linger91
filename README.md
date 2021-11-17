@@ -1,4 +1,6 @@
 # :man_technologist: Tiago Esteves
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/testeves260/](https://www.linkedin.com/in/testeves260/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=961292572&text=Olá!)](https://api.whatsapp.com/send?phone=961292572&text=Olá!)
 
 ## Hey! My name is Tiago! I'm currently learning to code Python and Full Stack Web Development!
 
