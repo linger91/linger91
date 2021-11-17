@@ -11,7 +11,8 @@ I aspire to be a Full Stack Web Development!
 Everything that may help are most welcome!
 I will be uploading few projects that i may be working while learning to code.
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/linger91/)](https://github.com/linger91/)
+
 
 
   <img align="right" alt="Rafa-yoda" src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mr0m41sq25qtzql6nq84thrg7hl7l7l9busr1r4t&rid=giphy.gif">
