@@ -6,7 +6,7 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:testeves_260@hotmail.com)](mailto:testeves_260@hotmail.com)
 
 
-## Hey! My name is Tiago! I'm currently learning to code Python and Full Stack Web Development on my own! 
+## I'm currently learning to code Python and Full Stack Web Development on my own! 
 I aspire to be a Full Stack Web Development!
 Everything that may help are most welcome!
 I will be uploading few projects that i may be working while learning to code. Below you can find all the languages that i aspire to learn in few ahead months.
