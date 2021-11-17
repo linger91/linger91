@@ -18,10 +18,10 @@ I will be uploading few projects that i may be working while learning to code.
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react/&link=https://github.com/linger91/)](https://github.com/linger91/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js/&link=https://github.com/linger91/)](https://github.com/linger91/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white/&link=https://github.com/linger91/)](https://github.com/linger91/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/amphetikon/)](https://www.twitch.tv/amphetikon/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&link=https://www.twitch.tv/amphetikon/)](https://www.twitch.tv/amphetikon/)
 
 <img align="right" alt="Rafa-yoda" src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mr0m41sq25qtzql6nq84thrg7hl7l7l9busr1r4t&rid=giphy.gif">
 </div>  
   ##
 <div> 
- 	<a href="https://www.twitch.tv/linger91" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
